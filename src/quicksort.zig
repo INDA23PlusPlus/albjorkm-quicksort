@@ -1,3 +1,5 @@
+// https://kth.kattis.com/submissions/13114697
+
 const std = @import("std");
 
 var everything: [500_000 * 16]u8 = undefined;
